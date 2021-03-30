@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on my dgree final project
-- 🌱 I’m currently learning python
 - ⚡ Fun fact: Humans are the only animals that blush.
 
 🏡 [website][website] **|** 
